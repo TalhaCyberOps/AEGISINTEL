@@ -1,6 +1,6 @@
 # Contributing to AEGISINTEL
 
-AEGISINTEL is maintained by [@TM-541](https://github.com/TM-541). Issues and pull requests
+AEGISINTEL is maintained by [@TalhaCyberOps](https://github.com/TalhaCyberOps). Issues and pull requests
 are welcome. Every change is reviewed and merged by the maintainer.
 
 ## Branches

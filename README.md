@@ -120,7 +120,7 @@ rule match plus a behavioural anomaly) are rated **high confidence**.
 ## Quick start (Windows, PowerShell)
 Requirements: Python 3.11, Git. Optional: [Ollama](https://ollama.com) for AI reports and similarity search.
 ```powershell
-git clone https://github.com/TM-541/AEGISINTEL.git
+git clone https://github.com/TalhaCyberOps/AEGISINTEL.git
 cd AEGISINTEL
 py -3.11 -m venv .venv
 .venv\Scripts\python.exe -m pip install -r requirements.lock   # pinned, tested versions
