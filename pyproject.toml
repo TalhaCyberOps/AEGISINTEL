@@ -24,8 +24,8 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/TM-541/AEGISINTEL"
-Issues = "https://github.com/TM-541/AEGISINTEL/issues"
+Homepage = "https://github.com/TalhaCyberOps/AEGISINTEL"
+Issues = "https://github.com/TalhaCyberOps/AEGISINTEL/issues"
 
 [project.optional-dependencies]
 vector = ["chromadb>=0.5,<2"]

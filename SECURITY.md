@@ -7,7 +7,7 @@ before using it with real data.
 ## Reporting a vulnerability
 Please do not open a public issue. Report it privately through GitHub's
 **Security -> Report a vulnerability** form on this repository (or contact the maintainer,
-[@TM-541](https://github.com/TM-541)), with steps to reproduce and the affected version or
+[@TalhaCyberOps](https://github.com/TalhaCyberOps)), with steps to reproduce and the affected version or
 commit. Use synthetic data only; never send real logs or credentials. You should get an
 acknowledgement within 7 days.
 
